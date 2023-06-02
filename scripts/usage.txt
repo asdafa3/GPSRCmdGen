@@ -1,0 +1,1 @@
+Start pocketsphinx first and not too many commands cause then the RAM will overflow. Not more than 200 or so. Takes some time as it needs some delay between sending the commands to pocketsphinx
