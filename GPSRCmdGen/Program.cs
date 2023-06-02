@@ -168,7 +168,7 @@ namespace RoboCup.AtHome.GPSRCmdGen
 
 		private static void BulkExamples(Program p, int count)
 		{
-			string oDir = String.Format("GPSR Examples");
+			string oDir = String.Format("examples");
 			if (!Directory.Exists(oDir))
 				Directory.CreateDirectory(oDir);
 			string oFile = Path.Combine(oDir, String.Format("{0}.txt", oDir));
@@ -181,9 +181,7 @@ namespace RoboCup.AtHome.GPSRCmdGen
 					string sTask = task.ToString().Trim();
 					if (sTask.Length < 1) continue;
 					sTask = sTask.Substring(0, 1).ToUpper() + sTask.Substring(1);
-
-					WriteTaskToFile(writer, task, sTask, i);
-					GenerateTaskQR(sTask, i, oDir);
+					writer.WriteLine(sTask);
 				}
 			}
 		}
