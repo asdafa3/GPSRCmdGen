@@ -5,29 +5,25 @@
   and distributed by the Organizing Committee during Setup days
 //-->
 <rooms>
-  <room name="corridor">
-    <location name="entrance" isBeacon="true" />
-  </room>
   <room name="bedroom">
-    <location name="bed" isBeacon="true" />
-    <location name="side table" isPlacement="true" />
-    <location name="desk" isBeacon="true" isPlacement="true" />
+    <location name="exit" isBeacon="true" />
   </room>
   <room name="dining room">
-    <location name="dining table" isBeacon="true" isPlacement="true" />
+    <location name="side table" isPlacement="true" />
+    <location name="small cabinet" isPlacement="true" />
   </room>
   <room name="living room">
-    <location name="exit" isBeacon="true" />
-    <location name="couch" isBeacon="true" />
-    <location name="end table" isBeacon="true" isPlacement="true" />
-    <location name="bookcase" isPlacement="true" isBeacon="true" />
+    <location name="entrance" isBeacon="true" />
+    <location name="ikea table" isBeacon="true" />
+    <location name="seat one" isBeacon="true" />
+    <location name="seat two" isBeacon="true" />
+    <location name="seat three" isBeacon="true" />
+    <location name="seat four" isBeacon="true" />
+    <location name="seat five" isBeacon="true" />
+    <location name="seat six" isBeacon="true" />
   </room>
   <room name="kitchen">
-    <location name="cupboard" isPlacement="true" />
-    <location name="storage table" isPlacement="true" />
-    <location name="sink" isBeacon="true" isPlacement="true" />
-    <location name="counter" isPlacement="true" />
-    <location name="dishwasher" isBeacon="true" />
+    <location name="side table" isPlacement="true" />
   </room>
 </rooms>
 

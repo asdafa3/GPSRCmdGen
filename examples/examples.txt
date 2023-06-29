@@ -1,10 +1,300 @@
-﻿Meet Robin and escort him
-Follow Alex from the desk to the bedroom
-Navigate to the bookcase, meet Elizabeth, and follow her
-Meet Robin at the bed, follow him, and go to the bedroom
-Meet Skyler at the dishwasher, follow him, and go to the dining room
-Robot please contact Alex at the exit and ask him to leave
-Could you bring fruits to the person pointing to the left in the dining room
-Follow Michael from the desk to the dining room
-Meet William at the bed, follow him, and escort him back
-Robot please give me the apple from the cupboard
+﻿Please dump the junk
+Bring me the fruits
+Please navigate to the seat four, meet Robin, and guide her to the seat three
+Robot please follow Skyler from the seat two to the bedroom
+Could you please bring me the bowl
+Please locate three cutlery in the bedroom
+Follow Mary from the ikea table to the kitchen
+Follow Elizabeth
+Meet Francis at the seat two and follow her
+Robot please the living room
+Go to the side table, look for the cloth, and deliver it to John at the seat four
+Please meet William at the exit and follow him
+Robot please guide John from the seat three to the exit
+Please meet Robin at the seat three, follow her, and go to the bedroom
+Robot please take William from the exit to the entrance
+Bring my baggage to the cab
+Robot please follow Mary from the seat two to the kitchen
+Could you please meet Charlie at the entrance, follow him, and escort him back
+Please accompany Alex from the seat three to the exit
+Tell me how many tray there are on the side table
+Robot please meet Linda at the seat six, follow her, and navigate to the dining room
+Could you meet Francis at the seat two, follow her, and go to the living room
+Please go to the bedroom, locate a boy, and answer a question
+Tell me how many pear there are on the side table
+Could you please Tell me the pose of the person at the seat six
+Meet Alex at the seat two, follow him, and go to the kitchen
+Take the bleach to the small cabinet
+Robot please go to the ikea table, meet Robin, and follow her
+Deliver snacks to all the men in the bedroom.
+Robot please give me the pear from the side table
+Robot please navigate to the ikea table, meet Charlie, and guide him to the seat three
+Tell me the gender of the person in the bedroom
+Could you deliver cutlery to the person raising their left arm in the dining room
+Tell me the pose of the person in the living room
+Robot please the living room
+Could you please meet Skyler at the exit, follow her, and take her back
+Could you tell me how many people in the living room are standing
+Please bring my trolley to the uber
+Please find Skyler at the seat five and introduce it to Francis at the entrance
+Could you please look for the snacks in the bedroom
+Could you look for the fruits in the dining room
+Please find Robin at the seat three and introduce it to Skyler at the entrance
+Follow Robin from the exit to the living room
+Escort Robert from the ikea table to the seat one
+Take the sugar to the side table
+Meet Robin at the seat four, follow him, and guide him back
+Please Tell me what's the heaviest object on the side table
+Find a man in the bedroom and say something about yourself
+Could you please find Jennifer at the front door and introduce her to all the children in the living room.
+Please look for a person standing in the living room and answer a question
+Take Skyler to the exit
+Meet Francis at the seat three and follow him to the living room
+Tell me how many containers there are on the small cabinet
+Robot please meet John at the seat five and lead him to the seat two
+Give me the left most object from the side table
+Could you navigate to the seat five, meet Jennifer, and accompany her
+Could you take out the junk
+Robot please greet Jennifer at the seat four and ask her to leave
+Meet Charlie at the exit, follow him, and go to the kitchen
+Bring me the object behind the banana from the side table
+Could you give me the fruits
+Robot please navigate to the entrance, meet Elizabeth, and follow her
+Could you please tell me which are the three biggest objects on the small cabinet
+Get the peach and put it on the side table
+Lead Mary to the entrance, you will find her at the seat five
+Please follow Jennifer
+Pick up the tray from the small cabinet and give it to James at the seat one
+Please meet Francis at the seat one, follow her, and go to the bedroom
+Take Elizabeth to the seat six, you can find her at the seat five
+Take William to the seat one, you may find him at the seat four
+Please look for a person raising their right arm in the dining room and tell a joke
+Could you meet Francis at the seat three, follow him, and navigate to the kitchen
+Go to the seat two, meet Alex, and accompany him to the ikea table
+Could you Tell me what's the lightest fruits on the side table
+Could you please face Linda at the seat one and ask her to leave
+Meet Alex at the seat two and escort her to the seat one
+Could you go to the ikea table, meet Robin, and accompany him to the exit
+Could you please give me the peach
+Please look for the dishwasher tab in the dining room
+Meet Robin at the ikea table, follow her, and guide her back
+Meet Alex at the entrance, follow her, and go to the dining room
+Give snacks to everyone in the dining room.
+Grasp the tray from the side table and put it on the side table
+Navigate to the seat six, meet Elizabeth, and take her to the entrance
+Could you look for the fruits in the bedroom
+Meet Patricia at the seat five, follow her, and navigate to the dining room
+Meet Charlie at the seat four, follow him, and guide him back
+Could you follow James from the seat three to the living room
+Could you please Tell me how many milk there are on the side table
+Navigate to the seat one, meet Michael, and lead him to the entrance
+Could you bring the tray to the person raising their right arm in the dining room
+Robot please provide drinks to everyone in the kitchen.
+Meet Patricia at the seat five, follow her, and go to the living room
+Meet Jennifer at the seat four, follow her, and go to the kitchen
+Meet Robert at the ikea table, follow him, and accompany him back
+Robot please face Robin at the seat two and lead her to her taxi
+Could you please give me the object behind the cup from the small cabinet
+Bring the crackers to the side table
+Could you please Tell me how many snacks there are on the side table
+The dining room
+Could you give me the lightest cleaning supplies from the small cabinet
+Meet Robin at the seat one, follow him, and navigate to the kitchen
+Go to the seat five, meet William, and guide him to the seat four
+Meet Robin at the entrance and follow her
+Follow James from the ikea table to the living room
+Say the day of the week to the person pointing to the right in the kitchen
+Could you please meet Robert at the entrance, follow him, and go to the dining room
+Could you please bring me the fruits
+Tell me how many people in the bedroom are standing
+Robot please follow Skyler
+Tell me how many people in the bedroom are girls
+Robot please face Michael at the ikea table and ask him to leave
+Tell me how many snacks there are on the small cabinet
+Could you go to the seat three, meet William, and escort him to the seat three
+Could you give me the lightest object from the side table
+Meet Robert at the seat four, follow him, and navigate to the kitchen
+Could you escort Alex from the exit to the seat five
+Escort Michael to the seat five, you will find him at the seat two
+Robot please Tell me how many drinks there are on the side table
+Deliver snacks to me
+Robot please serve drinks to all the elders in the kitchen.
+Robot please find the snacks in the bedroom
+Bring me the object behind the pear from the side table
+Robot please distribute drinks to everyone in the living room.
+Please grasp the bowl and put it on the side table
+Could you lead Skyler to the seat three
+Tell me what's the smallest object on the small cabinet
+Bring pantry items to me
+Tell me the pose of the person in the kitchen
+Tell me which are the three smallest cutlery on the small cabinet
+Tell me the pose of the person in the kitchen
+Go to the seat four, meet Patricia, and follow her
+Robot please the bedroom
+Lead Patricia to the exit, you will find her at the seat two
+Meet Charlie at the entrance and escort her to the seat four
+Could you please locate three fruits in the kitchen
+Please tell me how many people in the bedroom are lying down
+Tell me the pose of the person at the seat six
+Please accompany Francis to the seat five
+Serve drinks to all the elders in the kitchen.
+Take Michael to the exit, you may find him at the seat five
+Robot please Tell me what's the thinnest fruits on the small cabinet
+Take out the waste
+Please meet James at the seat two and follow him
+Could you please meet William at the entrance, follow him, and lead him back
+Dump the trash
+Navigate to the entrance, meet Jennifer, and accompany her
+Arrange snacks to all the elders in the kitchen.
+Could you please bring the dishwasher tab to the small cabinet
+Could you please tell me which are the three biggest objects on the side table
+Meet Alex at the ikea table and follow him to the dining room
+Could you please contact Michael at the seat six and ask him to leave
+Meet Robin at the ikea table, follow her, and go to the bedroom
+Could you go to the kitchen, look for a female person, and answer a question
+Robot please distribute drinks to everyone in the dining room.
+Take my bag to the cab
+Navigate to the side table, locate the cloth, and place it on the side table
+Take out the garbage
+Deliver the coke to me
+Robot please meet Charlie at the seat four and follow him
+Give me the object behind the cornflakes from the small cabinet
+Bring me the object at the left of the peach from the side table
+Follow John from the seat six to the living room
+Meet William at the seat two and accompany him to the seat one
+Guide John to the seat four, you may find him at the seat one
+Dump the trash
+Please Tell me what's the biggest containers on the small cabinet
+Tell me how many people in the living room are boys
+Bring the mustard to the small cabinet
+Greet Linda at the front door and introduce her to everyone in the dining room.
+Answer a question to the person raising their right arm in the living room
+Meet Elizabeth at the seat three and escort her to the seat one
+Tell your team's name to the person raising their right arm in the kitchen
+Meet Charlie at the seat six, follow her, and go to the living room
+Meet Jennifer at the exit, follow her, and take her back
+Could you please follow James
+Lead Patricia from the seat three to the seat two
+Could you please tell me which are the three heaviest drinks on the side table
+Accompany Francis to the seat four
+Could you please Tell me how many cloth there are on the side table
+Could you please navigate to the seat four, meet Elizabeth, and guide her
+Find Elizabeth at the rear door and introduce her to everyone in the dining room.
+Meet Robin at the seat two and follow her to the dining room
+Robot please go to the seat three, meet Linda, and follow her
+Answer a question to the person raising their right arm in the living room
+Could you please meet Charlie at the ikea table and escort him to the seat four
+Take Charlie from the seat six to the entrance
+Please take the orange from the dining room to the side table
+Go to the exit, meet Alex, and follow her
+Could you Tell me what's the lightest object on the side table
+Contact Mary at the seat one and introduce it to Alex at the seat five
+Robot please meet Robin at the exit and follow him
+Could you meet Francis and lead her
+Tell me which are the three biggest objects on the side table
+Could you please meet Francis at the seat five, follow her, and go to the dining room
+Please escort Skyler to the exit
+Meet Jennifer at the exit, follow her, and lead her back
+Robot please give cleaning supplies to the person raising their left arm in the dining room
+Please meet Robin at the entrance, follow him, and escort him back
+Robot please meet Francis at the entrance, follow him, and guide him back
+Look for the cloth in the living room
+Go to the exit, meet Francis, and follow him
+Could you please deliver fruits to the person raising their right arm in the bedroom
+Robot please find Michael at the seat one and accompany him to his uber
+Bring the cornflakes from the living room to the side table
+Please say a joke to the person waving in the kitchen
+Could you please contact William at the seat four and lead him to his cab
+Could you meet Alex at the seat one and follow her to the living room
+Could you please greet Skyler at the seat one and ask him to leave
+Take Patricia to the seat six
+Could you get the cloth and place it on the small cabinet
+Look for the pantry items in the living room
+Navigate to the entrance, meet Robert, and escort him to the exit
+Please meet Alex at the seat six, follow her, and escort her back
+Take out the waste
+Robot please Tell me how many drinks there are on the side table
+Tell me which are the three heaviest objects on the side table
+Place the bowl on the small cabinet
+Could you bring me the object under the pringles from the small cabinet
+Could you please meet Alex at the seat four and follow her to the living room
+Take Elizabeth to the seat two
+The dining room
+Please go to the seat one, meet Alex, and escort him
+Could you please guide Michael to the ikea table, you may find him at the entrance
+Meet Charlie at the entrance, follow him, and go to the living room
+Bring me the object above the plate from the small cabinet
+Please meet Patricia at the seat three, follow her, and navigate to the kitchen
+Navigate to the seat one, meet Skyler, and follow her
+Please follow Michael
+Robot please place the cloth on the side table
+Please bring me the cutlery
+Grasp the bowl from the side table and deliver it to me
+Please go to the exit, meet Alex, and follow her
+Robot please find three drinks in the living room
+Meet Mary at the seat four, follow her, and guide her back
+Tell me the gender of the person in the dining room
+Could you go to the seat four, meet Skyler, and follow him
+Please meet Charlie at the exit, follow him, and guide him back
+Find James at the rear entrance and introduce him to everyone in the kitchen.
+Meet Robin at the seat three and follow her
+Could you please follow Jennifer from the ikea table to the dining room
+Get the tray from the side table and place it on the side table
+Meet Elizabeth at the exit, follow her, and accompany her back
+Could you bring me the cutlery
+Take the bowl and put it on the side table
+Dump the litter
+Robot please meet Francis at the seat five and take him to the seat two
+Give me the pantry items
+Please navigate to the seat five, meet Robin, and follow her
+Could you please meet William at the seat six, follow him, and navigate to the kitchen
+Could you please deliver fruits to me
+Look for the snacks in the bedroom
+Navigate to the seat four, meet Skyler, and follow him
+Greet Linda at the seat six and introduce it to John at the seat two
+Meet Patricia at the seat five, follow her, and go to the living room
+Take my baggage to the cab
+Could you please meet Jennifer at the entrance and follow her
+Meet Robert at the ikea table, follow him, and go to the dining room
+Please bring me the left most object from the small cabinet
+Meet Alex at the seat two, follow her, and navigate to the dining room
+Give drinks to all the guests in the kitchen.
+Could you please follow Michael from the ikea table to the living room
+Locate a person pointing to the left in the kitchen and say your team's country
+Follow John from the entrance to the kitchen
+Bring me the orange
+Could you please contact Skyler at the seat six and introduce it to Jennifer at the entrance
+Robot please meet Michael at the seat one, follow him, and navigate to the dining room
+Meet Skyler at the exit, follow her, and guide her back
+Tell me the pose of the person at the seat five
+Could you please put the spoon on the side table
+Could you Tell me the gender of the person at the seat one
+Follow William from the entrance to the dining room
+Please accompany Alex to the seat four, you can find her at the seat two
+Find the fruits in the living room
+Could you please greet Robin at the seat two and escort her to her uber
+Robot please follow William from the seat two to the dining room
+Greet Robert at the seat three and ask him to leave
+Please find Robin at the entrance and accompany her to her uber
+Follow Francis from the seat five to the kitchen
+Could you please answer a question to the person pointing to the left in the bedroom
+Tell me what's the largest object on the side table
+Meet Patricia at the ikea table, follow her, and guide her back
+Meet Elizabeth at the entrance, follow her, and take her back
+Meet Skyler at the seat four and follow him to the kitchen
+Bring the pringles to the side table
+Please give me the left most object from the small cabinet
+Could you please give the bowl to me
+Please answer a question to the person waving in the bedroom
+Take the bowl from the side table and place it on the side table
+Meet Robert and accompany him
+Robot please find the cleaning supplies in the bedroom
+Tell me the name of the person in the living room
+Bring me the banana from the small cabinet
+Guide Robert from the seat five to the seat two
+Meet Robin at the seat one and accompany her to the seat five
+Bring me the biggest fruits from the side table
+Go to the side table, look for the bowl, and give it to me
+Could you please meet Patricia at the ikea table, follow her, and take her back
+Greet Charlie at the front door and introduce him to all the men in the living room.
+Follow Robin from the seat six to the kitchen

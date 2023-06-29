@@ -1,0 +1,287 @@
+[12:33:27] %%% -> please dump the junk <- Not Part of the Grammar
+[12:33:27] %%% -> bring me the fruits <- Not Part of the Grammar
+[12:33:27] please navigate to the seat four meet robin and guide her to the seat three
+[12:33:28] robot please follow skyler from the seat two to the bedroom
+[12:33:28] %%% -> could you please bring me the bowl <- Not Part of the Grammar
+[12:33:28] %%% -> please locate three cutlery in the bedroom <- Not Part of the Grammar
+[12:33:29] follow mary from the ikea table to the kitchen
+[12:33:29] follow elizabeth
+[12:33:29] meet francis at the seat two and follow her
+[12:33:30] %%% -> robot please the living room <- Not Part of the Grammar
+[12:33:30] %%% -> go to the side table look for the cloth and deliver it to john at the seat four <- Not Part of the Grammar
+[12:33:30] please meet william at the exit and follow him
+[12:33:31] robot please guide john from the seat three to the exit
+[12:33:31] please meet robin at the seat three follow her and go to the bedroom
+[12:33:31] robot please take william from the exit to the entrance
+[12:33:32] %%% -> bring my baggage to the cab <- Not Part of the Grammar
+[12:33:32] robot please follow mary from the seat two to the kitchen
+[12:33:32] could you please meet charlie at the entrance follow him and escort him back
+[12:33:33] please accompany alex from the seat three to the exit
+[12:33:33] tell me how many tray there are on the side table
+[12:33:33] robot please meet linda at the seat six follow her and navigate to the dining room
+[12:33:34] could you meet francis at the seat two follow her and go to the living room
+[12:33:34] please go to the bedroom locate a boy and answer a question
+[12:33:34] tell me how many pear there are on the side table
+[12:33:35] could you please tell me the pose of the person at the seat six
+[12:33:35] meet alex at the seat two follow him and go to the kitchen
+[12:33:35] %%% -> take the bleach to the small cabinet <- Not Part of the Grammar
+[12:33:36] robot please go to the ikea table meet robin and follow her
+[12:33:36] %%% -> deliver snacks to all the men in the bedroom. <- Not Part of the Grammar
+[12:33:36] robot please give me the pear from the side table
+[12:33:37] robot please navigate to the ikea table meet charlie and guide him to the seat three
+[12:33:37] tell me the gender of the person in the bedroom
+[12:33:37] %%% -> could you deliver cutlery to the person raising their left arm in the dining room <- Not Part of the Grammar
+[12:33:38] tell me the pose of the person in the living room
+[12:33:38] %%% -> robot please the living room <- Not Part of the Grammar
+[12:33:39] could you please meet skyler at the exit follow her and take her back
+[12:33:39] could you tell me how many people in the living room are standing
+[12:33:39] %%% -> please bring my trolley to the uber <- Not Part of the Grammar
+[12:33:40] %%% -> please find skyler at the seat five and introduce it to francis at the entrance <- Not Part of the Grammar
+[12:33:40] could you please look for the snacks in the bedroom
+[12:33:40] could you look for the fruits in the dining room
+[12:33:41] %%% -> please find robin at the seat three and introduce it to skyler at the entrance <- Not Part of the Grammar
+[12:33:41] follow robin from the exit to the living room
+[12:33:41] escort robert from the ikea table to the seat one
+[12:33:42] %%% -> take the sugar to the side table <- Not Part of the Grammar
+[12:33:42] meet robin at the seat four follow him and guide him back
+[12:33:42] please tell me whats the heaviest object on the side table
+[12:33:43] %%% -> find a man in the bedroom and say something about yourself <- Not Part of the Grammar
+[12:33:43] %%% -> could you please find jennifer at the front door and introduce her to all the children in the living room. <- Not Part of the Grammar
+[12:33:43] please look for a person standing in the living room and answer a question
+[12:33:44] %%% -> take skyler to the exit <- Not Part of the Grammar
+[12:33:44] tell me how many containers there are on the small cabinet
+[12:33:45] robot please meet john at the seat five and lead him to the seat two
+[12:33:45] %%% -> give me the left most object from the side table <- Not Part of the Grammar
+[12:33:45] could you navigate to the seat five meet jennifer and accompany her
+[12:33:46] %%% -> could you take out the junk <- Not Part of the Grammar
+[12:33:46] %%% -> robot please greet jennifer at the seat four and ask her to leave <- Not Part of the Grammar
+[12:33:46] meet charlie at the exit follow him and go to the kitchen
+[12:33:47] %%% -> bring me the object behind the banana from the side table <- Not Part of the Grammar
+[12:33:47] %%% -> could you give me the fruits <- Not Part of the Grammar
+[12:33:47] robot please navigate to the entrance meet elizabeth and follow her
+[12:33:48] %%% -> could you please tell me which are the three biggest objects on the small cabinet <- Not Part of the Grammar
+[12:33:48] %%% -> get the peach and put it on the side table <- Not Part of the Grammar
+[12:33:48] %%% -> lead mary to the entrance you will find her at the seat five <- Not Part of the Grammar
+[12:33:49] please follow jennifer
+[12:33:49] pick up the tray from the small cabinet and give it to james at the seat one
+[12:33:50] please meet francis at the seat one follow her and go to the bedroom
+[12:33:50] %%% -> take elizabeth to the seat six you can find her at the seat five <- Not Part of the Grammar
+[12:33:50] %%% -> take william to the seat one you may find him at the seat four <- Not Part of the Grammar
+[12:33:51] %%% -> please look for a person raising their right arm in the dining room and tell a joke <- Not Part of the Grammar
+[12:33:51] could you meet francis at the seat three follow him and navigate to the kitchen
+[12:33:51] go to the seat two meet alex and accompany him to the ikea table
+[12:33:52] could you tell me whats the lightest fruits on the side table
+[12:33:52] meet alex at the seat two and escort her to the seat one
+[12:33:53] could you go to the ikea table meet robin and accompany him to the exit
+[12:33:53] %%% -> could you please give me the peach <- Not Part of the Grammar
+[12:33:53] please look for the dishwasher tab in the dining room
+[12:33:54] meet robin at the ikea table follow her and guide her back
+[12:33:54] meet alex at the entrance follow her and go to the dining room
+[12:33:54] %%% -> give snacks to everyone in the dining room. <- Not Part of the Grammar
+[12:33:55] grasp the tray from the side table and put it on the side table
+[12:33:55] navigate to the seat six meet elizabeth and take her to the entrance
+[12:33:55] could you look for the fruits in the bedroom
+[12:33:56] meet patricia at the seat five follow her and navigate to the dining room
+[12:33:56] meet charlie at the seat four follow him and guide him back
+[12:33:56] could you follow james from the seat three to the living room
+[12:33:57] could you please tell me how many milk there are on the side table
+[12:33:57] navigate to the seat one meet michael and lead him to the entrance
+[12:33:57] %%% -> could you bring the tray to the person raising their right arm in the dining room <- Not Part of the Grammar
+[12:33:58] %%% -> robot please provide drinks to everyone in the kitchen. <- Not Part of the Grammar
+[12:33:58] meet patricia at the seat five follow her and go to the living room
+[12:33:58] meet jennifer at the seat four follow her and go to the kitchen
+[12:33:59] meet robert at the ikea table follow him and accompany him back
+[12:34:00] %%% -> could you please give me the object behind the cup from the small cabinet <- Not Part of the Grammar
+[12:34:00] %%% -> bring the crackers to the side table <- Not Part of the Grammar
+[12:34:00] could you please tell me how many snacks there are on the side table
+[12:34:01] %%% -> the dining room <- Not Part of the Grammar
+[12:34:01] %%% -> could you give me the lightest cleaning supplies from the small cabinet <- Not Part of the Grammar
+[12:34:01] meet robin at the seat one follow him and navigate to the kitchen
+[12:34:02] go to the seat five meet william and guide him to the seat four
+[12:34:02] meet robin at the entrance and follow her
+[12:34:02] follow james from the ikea table to the living room
+[12:34:03] say the day of the week to the person pointing to the right in the kitchen
+[12:34:03] could you please meet robert at the entrance follow him and go to the dining room
+[12:34:03] %%% -> could you please bring me the fruits <- Not Part of the Grammar
+[12:34:04] tell me how many people in the bedroom are standing
+[12:34:04] robot please follow skyler
+[12:34:04] tell me how many people in the bedroom are girls
+[12:34:05] tell me how many snacks there are on the small cabinet
+[12:34:05] could you go to the seat three meet william and escort him to the seat three
+[12:34:06] %%% -> could you give me the lightest object from the side table <- Not Part of the Grammar
+[12:34:06] meet robert at the seat four follow him and navigate to the kitchen
+[12:34:06] could you escort alex from the exit to the seat five
+[12:34:07] %%% -> escort michael to the seat five you will find him at the seat two <- Not Part of the Grammar
+[12:34:07] robot please tell me how many drinks there are on the side table
+[12:34:07] deliver snacks to me
+[12:34:08] %%% -> robot please serve drinks to all the elders in the kitchen. <- Not Part of the Grammar
+[12:34:08] robot please find the snacks in the bedroom
+[12:34:08] %%% -> bring me the object behind the pear from the side table <- Not Part of the Grammar
+[12:34:09] %%% -> robot please distribute drinks to everyone in the living room. <- Not Part of the Grammar
+[12:34:09] %%% -> please grasp the bowl and put it on the side table <- Not Part of the Grammar
+[12:34:09] %%% -> could you lead skyler to the seat three <- Not Part of the Grammar
+[12:34:10] tell me whats the smallest object on the small cabinet
+[12:34:10] bring pantry items to me
+[12:34:11] tell me the pose of the person in the kitchen
+[12:34:11] %%% -> tell me which are the three smallest cutlery on the small cabinet <- Not Part of the Grammar
+[12:34:11] tell me the pose of the person in the kitchen
+[12:34:12] go to the seat four meet patricia and follow her
+[12:34:12] %%% -> robot please the bedroom <- Not Part of the Grammar
+[12:34:12] %%% -> lead patricia to the exit you will find her at the seat two <- Not Part of the Grammar
+[12:34:13] meet charlie at the entrance and escort her to the seat four
+[12:34:13] %%% -> could you please locate three fruits in the kitchen <- Not Part of the Grammar
+[12:34:13] please tell me how many people in the bedroom are lying down
+[12:34:14] tell me the pose of the person at the seat six
+[12:34:14] %%% -> please accompany francis to the seat five <- Not Part of the Grammar
+[12:34:14] %%% -> serve drinks to all the elders in the kitchen. <- Not Part of the Grammar
+[12:34:15] %%% -> take michael to the exit you may find him at the seat five <- Not Part of the Grammar
+[12:34:15] robot please tell me whats the thinnest fruits on the small cabinet
+[12:34:15] %%% -> take out the waste <- Not Part of the Grammar
+[12:34:16] please meet james at the seat two and follow him
+[12:34:16] could you please meet william at the entrance follow him and lead him back
+[12:34:16] %%% -> dump the trash <- Not Part of the Grammar
+[12:34:17] navigate to the entrance meet jennifer and accompany her
+[12:34:17] %%% -> arrange snacks to all the elders in the kitchen. <- Not Part of the Grammar
+[12:34:17] %%% -> could you please bring the dishwasher tab to the small cabinet <- Not Part of the Grammar
+[12:34:18] %%% -> could you please tell me which are the three biggest objects on the side table <- Not Part of the Grammar
+[12:34:19] meet robin at the ikea table follow her and go to the bedroom
+[12:34:19] could you go to the kitchen look for a female person and answer a question
+[12:34:20] %%% -> robot please distribute drinks to everyone in the dining room. <- Not Part of the Grammar
+[12:34:20] %%% -> take my bag to the cab <- Not Part of the Grammar
+[12:34:20] %%% -> navigate to the side table locate the cloth and place it on the side table <- Not Part of the Grammar
+[12:34:21] %%% -> take out the garbage <- Not Part of the Grammar
+[12:34:21] deliver the coke to me
+[12:34:21] robot please meet charlie at the seat four and follow him
+[12:34:22] %%% -> give me the object behind the cornflakes from the small cabinet <- Not Part of the Grammar
+[12:34:22] %%% -> bring me the object at the left of the peach from the side table <- Not Part of the Grammar
+[12:34:22] follow john from the seat six to the living room
+[12:34:23] meet william at the seat two and accompany him to the seat one
+[12:34:23] %%% -> guide john to the seat four you may find him at the seat one <- Not Part of the Grammar
+[12:34:23] %%% -> dump the trash <- Not Part of the Grammar
+[12:34:24] please tell me whats the biggest containers on the small cabinet
+[12:34:24] tell me how many people in the living room are boys
+[12:34:24] %%% -> bring the mustard to the small cabinet <- Not Part of the Grammar
+[12:34:25] %%% -> greet linda at the front door and introduce her to everyone in the dining room. <- Not Part of the Grammar
+[12:34:25] %%% -> answer a question to the person raising their right arm in the living room <- Not Part of the Grammar
+[12:34:26] meet elizabeth at the seat three and escort her to the seat one
+[12:34:26] tell your teams name to the person raising their right arm in the kitchen
+[12:34:26] meet charlie at the seat six follow her and go to the living room
+[12:34:27] meet jennifer at the exit follow her and take her back
+[12:34:27] could you please follow james
+[12:34:27] lead patricia from the seat three to the seat two
+[12:34:28] %%% -> could you please tell me which are the three heaviest drinks on the side table <- Not Part of the Grammar
+[12:34:28] %%% -> accompany francis to the seat four <- Not Part of the Grammar
+[12:34:28] %%% -> could you please tell me how many cloth there are on the side table <- Not Part of the Grammar
+[12:34:29] could you please navigate to the seat four meet elizabeth and guide her
+[12:34:29] %%% -> find elizabeth at the rear door and introduce her to everyone in the dining room. <- Not Part of the Grammar
+[12:34:30] robot please go to the seat three meet linda and follow her
+[12:34:30] %%% -> answer a question to the person raising their right arm in the living room <- Not Part of the Grammar
+[12:34:30] could you please meet charlie at the ikea table and escort him to the seat four
+[12:34:31] take charlie from the seat six to the entrance
+[12:34:31] %%% -> please take the orange from the dining room to the side table <- Not Part of the Grammar
+[12:34:31] go to the exit meet alex and follow her
+[12:34:32] could you tell me whats the lightest object on the side table
+[12:34:33] robot please meet robin at the exit and follow him
+[12:34:33] %%% -> could you meet francis and lead her <- Not Part of the Grammar
+[12:34:33] %%% -> tell me which are the three biggest objects on the side table <- Not Part of the Grammar
+[12:34:34] could you please meet francis at the seat five follow her and go to the dining room
+[12:34:34] %%% -> please escort skyler to the exit <- Not Part of the Grammar
+[12:34:34] meet jennifer at the exit follow her and lead her back
+[12:34:35] %%% -> robot please give cleaning supplies to the person raising their left arm in the dining room <- Not Part of the Grammar
+[12:34:35] please meet robin at the entrance follow him and escort him back
+[12:34:35] robot please meet francis at the entrance follow him and guide him back
+[12:34:36] %%% -> look for the cloth in the living room <- Not Part of the Grammar
+[12:34:36] go to the exit meet francis and follow him
+[12:34:36] %%% -> could you please deliver fruits to the person raising their right arm in the bedroom <- Not Part of the Grammar
+[12:34:37] %%% -> robot please find michael at the seat one and accompany him to his uber <- Not Part of the Grammar
+[12:34:37] %%% -> bring the cornflakes from the living room to the side table <- Not Part of the Grammar
+[12:34:37] please say a joke to the person waving in the kitchen
+[12:34:38] %%% -> could you please greet skyler at the seat one and ask him to leave <- Not Part of the Grammar
+[12:34:39] %%% -> take patricia to the seat six <- Not Part of the Grammar
+[12:34:39] %%% -> could you get the cloth and place it on the small cabinet <- Not Part of the Grammar
+[12:34:39] look for the pantry items in the living room
+[12:34:40] navigate to the entrance meet robert and escort him to the exit
+[12:34:40] please meet alex at the seat six follow her and escort her back
+[12:34:40] %%% -> take out the waste <- Not Part of the Grammar
+[12:34:41] robot please tell me how many drinks there are on the side table
+[12:34:41] %%% -> tell me which are the three heaviest objects on the side table <- Not Part of the Grammar
+[12:34:42] %%% -> place the bowl on the small cabinet <- Not Part of the Grammar
+[12:34:42] %%% -> could you bring me the object under the pringles from the small cabinet <- Not Part of the Grammar
+[12:34:43] %%% -> take elizabeth to the seat two <- Not Part of the Grammar
+[12:34:43] %%% -> the dining room <- Not Part of the Grammar
+[12:34:43] please go to the seat one meet alex and escort him
+[12:34:44] %%% -> could you please guide michael to the ikea table you may find him at the entrance <- Not Part of the Grammar
+[12:34:44] meet charlie at the entrance follow him and go to the living room
+[12:34:44] %%% -> bring me the object above the plate from the small cabinet <- Not Part of the Grammar
+[12:34:45] please meet patricia at the seat three follow her and navigate to the kitchen
+[12:34:45] navigate to the seat one meet skyler and follow her
+[12:34:45] please follow michael
+[12:34:46] %%% -> robot please place the cloth on the side table <- Not Part of the Grammar
+[12:34:46] %%% -> please bring me the cutlery <- Not Part of the Grammar
+[12:34:46] grasp the bowl from the side table and deliver it to me
+[12:34:47] please go to the exit meet alex and follow her
+[12:34:47] %%% -> robot please find three drinks in the living room <- Not Part of the Grammar
+[12:34:47] meet mary at the seat four follow her and guide her back
+[12:34:48] tell me the gender of the person in the dining room
+[12:34:48] could you go to the seat four meet skyler and follow him
+[12:34:48] please meet charlie at the exit follow him and guide him back
+[12:34:49] %%% -> find james at the rear entrance and introduce him to everyone in the kitchen. <- Not Part of the Grammar
+[12:34:49] meet robin at the seat three and follow her
+[12:34:49] could you please follow jennifer from the ikea table to the dining room
+[12:34:50] get the tray from the side table and place it on the side table
+[12:34:50] meet elizabeth at the exit follow her and accompany her back
+[12:34:50] %%% -> could you bring me the cutlery <- Not Part of the Grammar
+[12:34:51] %%% -> take the bowl and put it on the side table <- Not Part of the Grammar
+[12:34:51] %%% -> dump the litter <- Not Part of the Grammar
+[12:34:52] robot please meet francis at the seat five and take him to the seat two
+[12:34:52] %%% -> give me the pantry items <- Not Part of the Grammar
+[12:34:52] please navigate to the seat five meet robin and follow her
+[12:34:53] could you please meet william at the seat six follow him and navigate to the kitchen
+[12:34:53] could you please deliver fruits to me
+[12:34:53] look for the snacks in the bedroom
+[12:34:54] navigate to the seat four meet skyler and follow him
+[12:34:54] %%% -> greet linda at the seat six and introduce it to john at the seat two <- Not Part of the Grammar
+[12:34:54] meet patricia at the seat five follow her and go to the living room
+[12:34:55] %%% -> take my baggage to the cab <- Not Part of the Grammar
+[12:34:55] could you please meet jennifer at the entrance and follow her
+[12:34:55] meet robert at the ikea table follow him and go to the dining room
+[12:34:56] %%% -> please bring me the left most object from the small cabinet <- Not Part of the Grammar
+[12:34:56] meet alex at the seat two follow her and navigate to the dining room
+[12:34:56] %%% -> give drinks to all the guests in the kitchen. <- Not Part of the Grammar
+[12:34:57] could you please follow michael from the ikea table to the living room
+[12:34:57] %%% -> locate a person pointing to the left in the kitchen and say your teams country <- Not Part of the Grammar
+[12:34:57] follow john from the entrance to the kitchen
+[12:34:58] %%% -> bring me the orange <- Not Part of the Grammar
+[12:34:59] robot please meet michael at the seat one follow him and navigate to the dining room
+[12:34:59] meet skyler at the exit follow her and guide her back
+[12:34:59] tell me the pose of the person at the seat five
+[12:35:00] %%% -> could you please put the spoon on the side table <- Not Part of the Grammar
+[12:35:00] could you tell me the gender of the person at the seat one
+[12:35:00] follow william from the entrance to the dining room
+[12:35:01] %%% -> please accompany alex to the seat four you can find her at the seat two <- Not Part of the Grammar
+[12:35:01] find the fruits in the living room
+[12:35:01] %%% -> could you please greet robin at the seat two and escort her to her uber <- Not Part of the Grammar
+[12:35:02] robot please follow william from the seat two to the dining room
+[12:35:02] %%% -> greet robert at the seat three and ask him to leave <- Not Part of the Grammar
+[12:35:02] %%% -> please find robin at the entrance and accompany her to her uber <- Not Part of the Grammar
+[12:35:03] follow francis from the seat five to the kitchen
+[12:35:03] %%% -> could you please answer a question to the person pointing to the left in the bedroom <- Not Part of the Grammar
+[12:35:03] tell me whats the largest object on the side table
+[12:35:04] meet patricia at the ikea table follow her and guide her back
+[12:35:04] meet elizabeth at the entrance follow her and take her back
+[12:35:05] %%% -> bring the pringles to the side table <- Not Part of the Grammar
+[12:35:05] %%% -> please give me the left most object from the small cabinet <- Not Part of the Grammar
+[12:35:05] could you please give the bowl to me
+[12:35:06] %%% -> please answer a question to the person waving in the bedroom <- Not Part of the Grammar
+[12:35:06] take the bowl from the side table and place it on the side table
+[12:35:07] %%% -> meet robert and accompany him <- Not Part of the Grammar
+[12:35:07] robot please find the cleaning supplies in the bedroom
+[12:35:07] tell me the name of the person in the living room
+[12:35:08] bring me the banana from the small cabinet
+[12:35:08] guide robert from the seat five to the seat two
+[12:35:08] meet robin at the seat one and accompany her to the seat five
+[12:35:09] %%% -> bring me the biggest fruits from the side table <- Not Part of the Grammar
+[12:35:09] %%% -> go to the side table look for the bowl and give it to me <- Not Part of the Grammar
+[12:35:09] could you please meet patricia at the ikea table follow her and take her back
+[12:35:10] %%% -> greet charlie at the front door and introduce him to all the men in the living room. <- Not Part of the Grammar
+[12:35:10] follow robin from the seat six to the kitchen
